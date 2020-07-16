@@ -1,4 +1,4 @@
-Arty A7-100T GPIO Demo
+wArty A7-100T GPIO Demo
 ==============
 
 Description
@@ -17,7 +17,7 @@ Requirements
 Demo Setup
 --------------
 1. Download and extract the most recent release ZIP archive from this repository's [Releases Page](https://github.com/Digilent/Arty-A7-100-GPIO/releases).
-2. Open the project in Vivado 2018.2 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Arty-A7-100-GPIO.xpr".
+2. Open the project in Vivado 2020.1 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Arty-A7-100-GPIO.xpr".
 3. In the Flow Navigator panel on the left side of the Vivado window, click **Open Hardware Manager**.
 4. Plug the Arty A7-100T into the computer using a MicroUSB cable.
 5. Open a serial terminal emulator (such as TeraTerm) and connect it to the Arty A7-100T's serial port, using a baud rate of 9600.
